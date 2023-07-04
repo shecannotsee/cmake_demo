@@ -1,10 +1,12 @@
 # All third party list.
 set(all_third_party
-        "googletest")
+        "googletest"
+        "glog")
 
 # A library that can use universal compilation methods
 set(auto_third_party
-        "googletest")
+        "googletest"
+        "glog")
 
 # third party output
 set(3rd_output)

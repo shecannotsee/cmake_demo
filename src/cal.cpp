@@ -3,3 +3,7 @@
 //
 
 #include "cal.h"
+
+auto cal::add(int p1, int p2) -> int {
+  return p1 + p2;
+};

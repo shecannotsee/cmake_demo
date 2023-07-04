@@ -11,6 +11,4 @@ include(${CMAKE_SOURCE_DIR}/cmake/06_install.cmake)
 PROJECT(${project_name}
         VERSION      0.0.1
         LANGUAGES    CXX
-        HOMEPAGE_URL https://github.com/shecannotsee/cmake_demo
-        LICENSE      "MIT"
         )
